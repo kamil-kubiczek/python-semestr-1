@@ -6,7 +6,7 @@ def task_1():
         
         # Validate first name
         if not first_name or not first_name.strip():
-            print("Błąd: Imię nie może być puste.")
+            print("Błąd: Imię nie może być pusteeeeeeeeee.")
             return
         
         # Validate last name
@@ -200,3 +200,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
