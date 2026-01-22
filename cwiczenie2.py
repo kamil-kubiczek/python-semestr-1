@@ -9,7 +9,7 @@ def task_1():
         else:
             print(f"Liczba {number} jest nieparzysta.")
     except ValueError:
-        print("Błąd: Podano nieprawidłową wartość. Proszę podać liczbę całkowitą.")
+        print("Błąd: Podano nieprawidłową wartość. Proszę podać liczbę całkowitą asdfsadfsadfasfasfasdf.")
 
 
 def task_2():
@@ -137,3 +137,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
